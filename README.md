@@ -1,5 +1,7 @@
 # Magnetic-beam-spin-encoding-NCOMMS-24-03503-
-Scripts and data involved in the study of magnetic beam spin encoding (submission - NCOMMS-24-03503)
+Scripts and data involved in the study of magnetic beam spin encoding (submission - NCOMMS-24-03503).
+
+A requirement to run the scripts presented in this repository is MATLAB version R2022b.
 
 The files here are split up into the following sections;
 
